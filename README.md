@@ -25,4 +25,4 @@ Then, change the `map_url` in `geo_planner.launch`. Also, you should modify the 
 [Rviz Visualization]
 ![Rviz Visualization](/test_image/rviz_result.png)
 
-<img src="/test_image/rviz_result.png" alt="Rviz Visualization" style="height: 100px; width:100px;"/>
+<img src="/test_image/rviz_result.png" alt="Rviz Visualization" style="width:30px;"/>
