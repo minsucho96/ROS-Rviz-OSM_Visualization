@@ -17,4 +17,7 @@ If you want to replace the osm file to your own, put yours in `[YOUR_WORKSPACE]/
 
 Then, change the `map_url` in `geo_planner.launch`. Also, you should modify the `tf` arguments  accordingly.
 
-![asdasdas](/test_image/osm_kaist.png)
+# Results
+
+![Open Street Map of KAIST](/test_image/osm_kaist.png)
+![Rviz Visualization](/test_image/rviz_result.png)
