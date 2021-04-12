@@ -7,7 +7,9 @@ Overview
 # Get Started
 
 Step 1) Clone this package on your workspace
+
 Step 2) `catkin_make`
+
 Step 3) Launch osm_cartography. `roslaunch osm_cartography geo_planner.launch`
 
 # How to change the OSM file
