@@ -19,5 +19,10 @@ Then, change the `map_url` in `geo_planner.launch`. Also, you should modify the 
 
 # Results
 
-![Open Street Map of KAIST](/test_image/osm_kaist.png "Open Street Map of KAIST")
+[Open Street Map of KAIST]
+![Open Street Map of KAIST](/test_image/osm_kaist.png)
+
+[Rviz Visualization]
 ![Rviz Visualization](/test_image/rviz_result.png)
+
+<img src="/test_image/rviz_result.png" alt="Rviz Visualization" style="height: 100px; width:100px;"/>
