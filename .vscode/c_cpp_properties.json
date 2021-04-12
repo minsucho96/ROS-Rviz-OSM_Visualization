@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/minsu/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/minsu/catkin_ws/src/cms_path_planning/include/**",
+        "/home/minsu/catkin_ws/src/ROS-Time-Varying-Kalman-Filter/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
